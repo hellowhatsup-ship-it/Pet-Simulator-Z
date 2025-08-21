@@ -56,4 +56,4 @@ end
 
 
 
-=== bro rlly thught, that this backdoor fuck you
+=== bro rlly thought, that this backdoor fuck you
